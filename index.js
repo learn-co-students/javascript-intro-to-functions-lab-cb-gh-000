@@ -14,7 +14,7 @@ function sayHiToGrandma(string){
   var s3="I love you, Grandma."
   if (string===string.toLowerCase)
   {
-  return "I can\'t hear you!" 
+  return "I can't hear you!" 
   }
   else if (string===string.toUpperCase)
   {
