@@ -18,12 +18,12 @@ function sayHiToGrandma(string){
   {
   return "I can\'t hear you!" 
   }
-  if (s2)
+  else if (s2)
   {
     return "YES INDEED!"
   }
   
-   if (s3)
+   else if (s3)
    {
 return "I love you, too."
 }
