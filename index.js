@@ -14,11 +14,11 @@ function sayHiToGrandma(string){
   var s1="hello"
   var s2="HELLO"
   var s3="I love you, Grandma."
-  if (s1.toLowerCase===s1)
+  if (s1)
   {
   return "I can\'t hear you!" 
   }
-  if (s2.toUpperCase===s2)
+  if (s2)
   {
     return "YES INDEED!"
   }
